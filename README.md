@@ -65,6 +65,7 @@ Edit
     }
   ]
 }
+
 Enable Static Website Hosting
 
 Go to Properties > Static Website Hosting
@@ -74,5 +75,8 @@ Choose “Enable”
 Set index.html and error.html
 
 Copy the endpoint URL (this is your website URL)
+
+
+DONE
 
 
